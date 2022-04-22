@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
-    <ImageTarget name="recyclingAR" size="1.000000 1.333333" />
-    <ImageTarget name="landfillAR" size="1.000000 1.333333" />
-    <ImageTarget name="compostAR" size="1.000000 1.333333" />
+    <ImageTarget name="IMG-9265" size="1.000000 1.314115" />
+    <ImageTarget name="IMG-9266" size="1.000000 1.339140" />
+    <ImageTarget name="IMG-9267" size="1.000000 1.323833" />
   </Tracking>
 </QCARConfig>
